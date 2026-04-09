@@ -39,7 +39,7 @@ Raspberry Pi Documentation
 - Install: pip install platformio
 ### 5. Visual Studio Code (Most Powerful)
 - Full-featured IDE 
-- http://regentelectronics.com
+- https://code.visualstudio.com/
 - Use "Remote - SSH" extension to code from your PC 
 - http://www.anthonywritescode.com
 - Supports Python, C++, and many languages
