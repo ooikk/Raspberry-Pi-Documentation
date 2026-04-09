@@ -14,7 +14,7 @@ Raspberry Pi Documentation
 
 ### 2. Mu Editor (Simplest Python IDE)
 - Designed specifically for beginners
-- www.raspberrypi.org
+- http://www.raspberrypi.org
 - Very simple interface - even simpler than Thonny
 - Great for kids and absolute beginners
 - http://ntoll.org
@@ -39,35 +39,35 @@ Raspberry Pi Documentation
 - Install: pip install platformio
 ### 5. Visual Studio Code (Most Powerful)
 - Full-featured IDE 
-- regentelectronics.com
+- http://regentelectronics.com
 - Use "Remote - SSH" extension to code from your PC 
-- www.anthonywritescode.com
+- http://www.anthonywritescode.com
 - Supports Python, C++, and many languages
 - Extensions for Arduino, PlatformIO, etc.
 ### 6. Node-RED (Visual Programming)
 - Flow-based visual programming tool 
-- GeeksforGeeks
+- http://GeeksforGeeks
 - Drag-and-drop nodes to create programs 
-- randomnerdtutorials.com
+- http://randomnerdtutorials.com
 - Great for IoT projects 
-- projects.raspberrypi.org
+- http://projects.raspberrypi.org
 - Pre-installed on Raspberry Pi OS
 - Access: http://your-pi-ip:1880
 ### 7. Scratch (Block Programming for Kids)
 - Visual block-based programming
 - Pre-installed on Raspberry Pi OS
 - Can control GPIO pins 
-- projects.raspberrypi.org
+- http://projects.raspberrypi.org
 ### 8. Geany (Lightweight C/C++ IDE)
 - Fast and simple 
-- forums.raspberrypi.com
+- http://forums.raspberrypi.com
 - Good for C/C++ development on Pi
 - Install: sudo apt install geany
 ### 9. Code::Blocks (C/C++ IDE)
 - Full-featured IDE for C/C++ 
-- regentelectronics.com
+- http://regentelectronics.com
 - Good for larger projects 
-- forums.raspberrypi.com
+- http://forums.raspberrypi.com
 - Install: sudo apt install codeblocks
 
 ## 📋 My Recommendations
